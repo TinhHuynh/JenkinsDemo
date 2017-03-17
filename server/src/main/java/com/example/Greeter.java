@@ -15,10 +15,10 @@ public class Greeter {
     /**
      * This is a greet method.
      *
-     * @param someone name of someone.
-     * @return greeting.
+     * @param
+     * @return
      */
     public final String greet(final String someone) {
-        return String.format("Hello, %s!", someone);
+        return String.format("Hello, %s!", someone)
     }
 }
